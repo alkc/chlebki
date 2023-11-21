@@ -43,14 +43,24 @@ prep sourdough
 
 ##### day 3 or 4
 
-1. preheat oven, baking stone and shitty pan at the bottom of the oven to 210C (convection bake mode)
+1. preheat oven, baking stone and shitty pan at the bottom of the oven to 200C (convection bake mode)
 2. remove bread from fridge, set on a baking sheet and score
-3. insert bread into oven and splash half a glass of water onto bottom pan, bake at 210C for 15 minutes
+3. insert bread into oven and splash half a glass of water onto bottom pan, bake at 200C for 15 minutes
 4. after 15 minutes remove bottom pan and bake at 180C for 20-30 minutes
 5. remove from oven, spray with water and let cool down for about 1h
 
 ## notes
 
+## todo
+
+- try reducing dry bake from 30 min to 20 min
+- try omitting diastatic malt powder (does it actually do anything?)
+- try increasing sourdough from 90g to 150g (halfway between 90g and old 210g) for more flavor
+
 ## sources
 
+This bread is a mix between:
+
+1. https://www.kingarthurbaking.com/recipes/no-knead-sourdough-bread-recipe
+2. http://adampiekarz.blogspot.com/2014/12/chleb-polski-lata-70-90.html
 
