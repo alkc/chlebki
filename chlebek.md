@@ -9,7 +9,7 @@ tags:
 
 ## description
 
-TBA
+Default no-bullshit bread. 60% wheat, 40% rye. What else do you need.
 
 ## recipe
 
@@ -56,6 +56,7 @@ prep sourdough
 - try reducing dry bake from 30 min to 20 min
 - try omitting diastatic malt powder (does it actually do anything?)
 - try increasing sourdough from 90g to 150g (halfway between 90g and old 210g) for more flavor
+- try a 5 min bake in high temp w/ steam followed by 20 min bake w/o steam for thinner crust
 
 ## sources
 
@@ -63,4 +64,3 @@ This bread is a mix between:
 
 1. https://www.kingarthurbaking.com/recipes/no-knead-sourdough-bread-recipe
 2. http://adampiekarz.blogspot.com/2014/12/chleb-polski-lata-70-90.html
-
