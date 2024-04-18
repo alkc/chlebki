@@ -15,6 +15,8 @@ The sourdough level is increased again from [chlebek.md](https://github.com/alkc
 
 Result is a very crunchy wheat bread with a nice carmelized/roasted crust w/ complex flavors.
 
+Works good when shaped into oval loaf/bâtard.
+
 ## recipe
 
 ### ingredients
