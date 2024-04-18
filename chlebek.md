@@ -24,8 +24,8 @@ Default no-bullshit bread. 60% wheat, 40% rye. What else do you need.
 #### main bread recipe
 
 - All of sourdough starter
-- 600g cold water
-- 400g rågsikt (60% sifted wheat, 40% sifted rye flour)
+- 400g cold water
+- 600g rågsikt (60% sifted wheat, 40% sifted rye flour)
 - 2 tsp diastatic malt powder
 - 2 tsp fine salt
 
@@ -35,13 +35,13 @@ Default no-bullshit bread. 60% wheat, 40% rye. What else do you need.
 
 prep sourdough
 
-##### day 2, evening
+##### day 1, evening
 
 1. mix bread dough
 2. stretch and fold x3
 3. shape and shove into fridge to cold ferment for 24-48h
 
-##### day 3 or 4
+##### oven baking
 
 1. preheat oven, baking stone and shitty pan at the bottom of the oven to 200C (convection bake mode)
 2. remove bread from fridge, set on a baking sheet and score
