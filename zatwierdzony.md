@@ -71,6 +71,8 @@ Result is a very crunchy wheat bread with a nice carmelized/roasted crust w/ com
 ## TODO
 
 - validate recipe with cold fermentation up to 48h
+    - Only worth it if the bread gets a more complex flavor whilst still keeping its shape when baking in oven. Might need a new recipe?
+    - Might need to reduce the sourdough back to 150g?
 - optimize oven times/temperatures a bit better
 
 
