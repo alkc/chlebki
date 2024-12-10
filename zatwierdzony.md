@@ -39,10 +39,10 @@ Works good when shaped into oval loaf/bâtard.
 #### main bread recipe
 
 - All of sourdough starter
-- 400g water
-- 100g spelt flour
-- 500g wheat flour
-- 18g (1-ish tbsp) salt
+- 440g water
+- 60g spelt flour
+- 540g wheat flour
+- 17g (1-ish tbsp) salt
 
 #### bake 
 
@@ -64,7 +64,7 @@ Works good when shaped into oval loaf/bâtard.
 2. preheat oven to 250C
 3. optional: let oven continue to warm up for up to 30 minutes after it has reached 250C
 4. remove bread from fridge, set on a baking sheet and score
-5. insert bread into oven and splash half a glass of water onto bottom pan, bake at 250C for 20 minutes
+5. insert bread into oven and throw one or two ice cubes onto bottom pan, bake at 250C for 15 minutes
 6. remove bottom pan w/ water and bake at 250C for an addional 20 minutes, reduce to 180C for the remainder of time if yr bread has reached the desired color
 7. remove from oven and let rest for ~1h before slicing
 
