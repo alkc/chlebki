@@ -1,28 +1,17 @@
----
-tags: 
-    - "wheat"
-    - "spelt"
-    - "sourdough"
----
+# chlebek pszenno-orkiszowy zatwierdzony
 
-# pszenny zatwierdzony
+ny best wheat sourdough bread. result of experimentation feb 2024 - apr 2024.
 
-## description
+crunchy wheat bread with a nice carmelized/roasted crust w/ complex flavors.
 
-My best wheat sourdough bread. Result of experimentation feb 2024 - apr 2024.
-
-The sourdough level is increased again from [chlebek.md](https://github.com/alkc/chlebki/blob/main/chlebek.md) and fermentation time is reduced. Oven temperature is kept very high with a longer steam-period.
-
-Result is a very crunchy wheat bread with a nice carmelized/roasted crust w/ complex flavors.
-
-Works good when shaped into oval loaf/bâtard.
+works good when shaped into oval loaf/bâtard.
 
 ## recipe
 
 ### ingredients
 
-- Wheat flour: [Finax, Rustique, stenmalet siktat vårvetemjöl](https://www.finax.se/sv/produkter/mjol/rustique-stenmalet-siktat-varvetemjoel/)
-- Spelt flour: [Saltå Kvarn, Dinkelmjöl fullkorn](https://www.saltakvarn.se/produkter/mjol/dinkelmjol-fullkorn/)
+- wheat flour: [Finax, Rustique, stenmalet siktat vårvetemjöl](https://www.finax.se/sv/produkter/mjol/rustique-stenmalet-siktat-varvetemjoel/)
+- spelt flour: [Saltå Kvarn, Dinkelmjöl fullkorn](https://www.saltakvarn.se/produkter/mjol/dinkelmjol-fullkorn/)
 
 ### tools
 
@@ -34,14 +23,16 @@ Works good when shaped into oval loaf/bâtard.
 
 - 65g sourdough (preferably fed on rye or some other whole-grain flour)
 - 65g water
-- 65g whole-grain spelt flour 
+- 65g whole-grain spelt flour
+
+For fermentation times over 8h, reduce the total weight of sourdough down to 100-150g.
 
 #### main bread recipe
 
-- All of sourdough starter
-- 440g water
-- 60g spelt flour
-- 540g wheat flour
+- all of sourdough starter
+- 450g water
+- 90g spelt flour
+- 510g wheat flour
 - 17g (1-ish tbsp) salt
 
 #### bake 
@@ -61,25 +52,16 @@ Works good when shaped into oval loaf/bâtard.
 ##### oven bake
 
 1. place a baking steel in oven, and at the bottom of oven put some shitty sheet pan that's not dear to you
-2. preheat oven to 250C
-3. optional: let oven continue to warm up for up to 30 minutes after it has reached 250C
+2. preheat oven to 230C and continue heating for at least 30 minutes before proceeding to the next step
 4. remove bread from fridge, set on a baking sheet and score
-5. insert bread into oven and throw one or two ice cubes onto bottom pan, bake at 250C for 15 minutes
-6. remove bottom pan w/ water and bake at 250C for an addional 20 minutes, reduce to 180C for the remainder of time if yr bread has reached the desired color
+5. insert bread into oven and throw two-five ice cubes onto bottom pan, bake at 230C for 15 minutes
+6. remove bottom pan w/ water and bake at 200C for an addional 20 minutes
 7. remove from oven and let rest for ~1h before slicing
 
 ## notes
 
-## TODO
-
-- validate recipe with cold fermentation up to 48h
-    - Only worth it if the bread gets a more complex flavor whilst still keeping its shape when baking in oven. Might need a new recipe?
-    - Might need to reduce the sourdough back to 150g?
-- optimize oven times/temperatures
-
+- this recipe should work for fermentation times up to 48h.
 
 ## sources
 
-The recipe here is an extension of: https://www.kingarthurbaking.com/recipes/no-knead-sourdough-bread-recipe
-
-
+the recipe here is an extension of: https://www.kingarthurbaking.com/recipes/no-knead-sourdough-bread-recipe
