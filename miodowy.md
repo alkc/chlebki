@@ -1,0 +1,5 @@
+- 425g water
+- 90g spelt
+- 510g wheat
+- 15g salt
+- 38g honey 
